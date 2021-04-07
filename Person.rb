@@ -19,7 +19,7 @@ class Person
             total += i
         end   
         puts total
-        avg = total/marks.length
+        avg = total/marks.leangth
         puts "diem trung binh cua ban la #{avg}"
     end
 
@@ -30,6 +30,9 @@ class Person
             puts "you are not male ---------------"
         end
     end
+
+
+    def 
 end
 
 
